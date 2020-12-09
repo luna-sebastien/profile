@@ -1,0 +1,68 @@
+body{
+  background-color: rgb(230, 230, 230);
+  color: rgb(50, 50, 50);
+font-family: 'Roboto', sans-serif;
+}
+
+h1,h2,h3 {
+font-family: 'Lora', serif;	
+}
+
+img{
+width: 200px;	
+}
+
+.img-circle{
+border-radius: 50%
+}
+
+
+h1{	
+color:purple;
+font-size: 32px
+}
+
+h2{
+color: purple;
+font-size: 20px
+}
+
+h3{
+color: purple;
+font-size: 20px
+}
+
+h4{
+color: purple;
+font-size: 20px
+}	
+
+a{
+text-decoration: none;	
+color: orange
+}
+
+.whitecard {
+margin: 20px;
+box-shadow: 2px 2px 3px	grey;
+background-color: white;
+}
+
+.container{
+padding: 60px auto;
+align-items: center;
+margin: 10px auto;
+text-align: center;
+display: center;
+width: 700px;	
+}
+
+li{
+text-decoration: none;
+list-style: none;
+display: inline;	
+}
+
+ul{
+padding-left: 0px;	
+}
